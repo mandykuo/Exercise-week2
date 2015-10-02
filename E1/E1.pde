@@ -20,7 +20,7 @@ void draw()
   
   //eyes
   
-  x--;
+  x++;
   
   fill(0);
   ellipse (180,250,30+x,30+x);
